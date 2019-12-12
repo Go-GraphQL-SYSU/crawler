@@ -1,4 +1,4 @@
-module crawler
+module github.com/Go-GraphQL-SYSU/crawler
 
 go 1.13
 
